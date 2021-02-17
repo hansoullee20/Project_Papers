@@ -1,0 +1,41 @@
+This repository contains final papers from my previous summer research internships, Research Experience for Undergraduates(REU) funded by the National Science Foundation (NSF).
+NSF REU website:
+https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517
+
+Descriptions for the summer programs are written below:
+
+1. File Name: Focus, Guide., and Alignment system for DESI.pdf
+
+  Advisor: Dr. Kevin Reil, SLAC National Laboratory
+  Location: Stanford Linear Accelerator, Palo Alto, California
+  
+  I was a selected participant for Wayne State University's REU program (https://clas.wayne.edu/physics/research/reu).
+  The project investigated the Mayall Telescope calibration before installing the Dark Energy Spectroscopic Instrument (DESI) to create a 3D model
+  of the universe. Astronomical objects were identified from Images taken by 60 CCD cameras in eight different galactic latitudes using UNIX based image recognition 
+  program Source-Extractor(https://sextractor.readthedocs.io/en/latest/Introduction.html). The mined data proceeded for data cleaning, visualization, error estimate, 
+  and plotting using python libraries such as sciPY, numpy, matplotlib, pandas and more. The process was automated via shell scripting.
+  
+2. File Name: Cleaning Procedure Analysis.pdf
+
+  Project Name: Cleaning Procedure Analysis Through Hough Transform for All Sky Search for Continuous Waves
+  Advisor: Dr. Pia Astone, INFN, “La Sapienza” University of Rome)
+  Location: Rome, Italy
+  
+  I participated in my second REU by University of Florida's International REU (http://www.phys.ufl.edu/ireu/index.html) specializing in gravitational wave research.
+  The project studied effectivness of the cleaning procedures on the VIRGO (https://www.virgo-gw.eu/) interferometer, designed to detect gravitational wave.
+  Several data cleaning procedures were taken, including Short-time Fourier transform, peak mapping from heatmaps, and hough transform. The efficiency was also studied via 
+  Mock Data Challenge (http://gallatin.physics.lsa.umich.edu/~keithr/lscdc/mockdata.html) where noise is artificially injected to a data before applying the cleaning procedures.
+  The data cleaning, manipulation, visualization and calculations were done in MATLAB on a UNIX operating system.
+  
+ 3. File Name: Visualization of the Higgs Interaction in the Standard.pdf
+  
+   Project Name: Visualization of the Higgs Interaction in the Standard Model and Beyond the Standard Model Physics
+   Advisor: Michael McGuigan, Department of Computational Science, Brookhaven National Laboratory
+   Location: Upton, New York
+   Publication: https://ieeexplore.ieee.org/document/7747823
+   
+   For the third project I worked at Brookhaven National Laboratory via Science Undergraduate Laboratory Internships (SULI) by the U.S. Department of Energy. 
+   The project aimed to create model based on the theoretically and experimentally verified Higgs interaction equations based on Particle Standard Model and 
+   Beyond Standard Model Physics. Solved math equations and created dataframe, charts, graphs, 3D modeling, and animaitons for high energy physics model.
+   
+   
